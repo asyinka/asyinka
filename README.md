@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @asyinka
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in coding and doing research. 
+- $$ A cryptocurrency and De-Fi enthusiast.
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on web design projects
+- 📫 How to reach me? See profile 
 
 # This is my page
 <!---
