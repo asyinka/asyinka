@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asyinka
 - 👀 I’m interested in coding and doing research. 
-- $$ A cryptocurrency and De-Fi enthusiast. Let's #buidl
+- $$ A cryptocurrency and De-Fi enthusiast. #buidl
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on web design projects
 - 📫 How to reach me? See profile 
