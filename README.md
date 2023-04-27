@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @asyinka
 - 👀 I’m interested in coding and doing research. 
-- $$ A cryptocurrency and De-Fi enthusiast. #buidl
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on web design projects
+- $$ A cryptocurrency and De-Fi enthusiast.
+- %% Learnt C.S.S, HTML and JavaScript.
+- 🌱 I’m currently learning React.js
+- 💞️ looking to collaborate and intern on web design projects
 - 📫 How to reach me? See profile 
 
 # This is my page
