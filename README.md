@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @asyinka
+- 👋 Hi, I am Yinka
 - 👀 I’m interested in coding and doing research. 
 - ₿₿  Cryptocurrency and De-Fi enthusiast.
 - 🧠 Sound knowledge of C.S.S, Tailwind CSS, JSX, HTML and JavaScript.
